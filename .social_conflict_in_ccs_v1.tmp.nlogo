@@ -8,9 +8,7 @@ to setup
 end
 
 to go
-  ;
-end
-
+  en
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;
